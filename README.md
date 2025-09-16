@@ -1,7 +1,7 @@
 # Buyer Lead App
 
 ## Live Links
-- Frontend: [Vercel](https://leadbuyer-lx3bnckrc-saptash-chaubeys-projects.vercel.app)
+- Frontend: [Vercel](https://leadbuyer.vercel.app)
 - Backend: [Render](https://your-render-backend-url.onrender.com)
 
 ## Setup
@@ -10,4 +10,4 @@
 
 ## Deployment
 - Frontend: Automatic via Vercel
-- Backend: Uses `render.yaml` (safe for GitHub)
+- Backend: Uses `render.yaml`
