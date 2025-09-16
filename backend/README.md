@@ -1,11 +1,10 @@
 # Backend API
 
-Node.js with Express & Drizzle ORM
-
 ## Setup
 1. `npm install`
-2. `npm run dev`
+2. Set `DATABASE_URL` in .env
+3. `npm run dev`
 
 ## Deployment
-- Uses `render.yaml` for Render.com deployment
-- Requires PostgreSQL database
+- Uses `render.yaml` for Render.com
+- Free PostgreSQL included
